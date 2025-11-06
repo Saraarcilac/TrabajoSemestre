@@ -5,13 +5,12 @@
 - Frontend: Next.js + React + Tailwind
 
 ## 🔐 Roles y funcionalidades
-- **Admin:** Control total del sistema, vista de estadísticas y ranking.
-- **Slave:** Registro y gestión de “developers” capturados.
-- **Developer:** Página pública con tips y feedback form.
+- **Admin (Juan Sao):** Control total del sistema, acceso a registros y estadísticas, da recompensas.
+- **Slave:** Registro y gestión de víctimas, compiten por recompensas, mirar estadísticas propias .
+- **Developer:** Página pública con tips y feedback form para reportar actividad de los slaves.
 
-## 🌐 Despliegue
+
 - Frontend: frontendtrabajosemestre-o8jd7nwny-saraarcilacs-projects.vercel.app
-- Backend: [https://tubackend.onrender.com](https://tubackend.onrender.com)
 
 ## 🧠 Instrucciones de uso
 1. Clonar el repo.
